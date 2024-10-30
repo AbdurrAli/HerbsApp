@@ -1,0 +1,122 @@
+<resources>
+    <!-- Existing data -->
+    <string name="app_name">Herbs</string>
+    <string name="plant_name">Plant Name</string>
+    <string name="description">Description</string>
+    <string name="photo_thumb">photo</string>
+    <string name="Share">Share this Article</string>
+    <string name="username">Abdurrahman Ali</string>
+    <string name="label_nama">Nama</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_id">User ID</string>
+    <string name="email">Abdurr.ali17@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Aloe Vera</item>
+        <item>Lavender</item>
+        <item>Mint</item>
+        <item>Rosemary</item>
+        <item>Basil</item>
+        <item>Thyme</item>
+        <item>Sage</item>
+        <item>Chamomile</item>
+        <item>Oregano</item>
+        <item>Ginger</item>
+        <item>Turmeric</item>
+        <item>Ginseng</item>
+        <item>Calendula</item>
+        <item>Peppermint</item>
+        <item>Holy Basil</item>
+        <item>Parsley</item>
+        <item>Fennel</item>
+        <item>Lemongrass</item>
+        <item>Dandelion</item>
+        <item>Echinacea</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Aloe Vera is a resilient succulent plant revered for its powerful medicinal and soothing properties. Its gel is commonly used to hydrate the skin, promote wound healing, and alleviate sunburn. Additionally, Aloe Vera juice is known for its digestive benefits, helping soothe gastrointestinal issues.</item>
+        <item>Lavender, a fragrant herb with iconic purple flowers, is celebrated for its calming and therapeutic qualities. Often used in aromatherapy, lavender essential oil is known to reduce anxiety, promote relaxation, and improve sleep quality. Additionally, it has antiseptic properties, making it useful for minor cuts and burns.</item>
+        <item>Mint is a vibrant, refreshing herb with a distinct cooling effect, thanks to its menthol content. It is widely used in culinary dishes, teas, and desserts for its invigorating flavor. Beyond its culinary uses, mint is known to relieve digestive discomfort and is often used in herbal remedies to soothe headaches and nasal congestion.</item>
+        <item>Rosemary is a hardy evergreen herb with needle-like leaves and a rich pine-like aroma. It is a staple in Mediterranean cuisine, enhancing the flavor of meats, soups, and roasted vegetables. Rosemary is also recognized for its cognitive benefits, as it is believed to improve memory and concentration.</item>
+        <item>Basil is a beloved herb with smooth, fragrant leaves, essential in many cuisines, especially Italian. Known as the \'king of herbs,\' basil is a key ingredient in dishes like pesto and Caprese salad. It also boasts anti-inflammatory and antibacterial properties, contributing to overall health.</item>
+        <item>Thyme is a robust herb with small leaves and a woodsy, slightly minty taste. It is commonly used in cooking, particularly in stews and marinades. Thyme is also praised for its medicinal properties, as it has antimicrobial effects and may support respiratory health.</item>
+        <item>Sage, with its soft, silvery-green leaves, is known for a unique, earthy aroma and slightly peppery taste. It is often used in stuffing and meat dishes. Sage has been traditionally used to improve digestion and has potential cognitive benefits, including enhancing memory.</item>
+        <item>Chamomile, a delicate flowering herb, is best known for its calming and sleep-inducing qualities. Chamomile tea is a popular bedtime beverage that helps reduce anxiety and promote relaxation. Additionally, chamomile is used in skincare for its soothing effects on irritated skin.</item>
+        <item>Oregano is a flavorful and aromatic herb widely used in Mediterranean and Latin American cuisines. It is rich in antioxidants and has antibacterial properties, making it a popular choice for enhancing the flavor of dishes while also providing health benefits.</item>
+        <item>Ginger, a spicy and aromatic root, is popular for its warming effect and anti-inflammatory properties. It is commonly used to alleviate nausea, improve digestion, and boost the immune system. Ginger tea is a favorite remedy for colds and flu.</item>
+        <item>Turmeric, known for its golden color, has powerful anti-inflammatory and antioxidant benefits, primarily due to its active compound, curcumin. It is often used in cooking and supplements to promote joint health, enhance brain function, and support overall wellness.</item>
+        <item>Ginseng is a root celebrated for boosting energy, reducing stress, and enhancing immunity. Often used in traditional medicine, ginseng is believed to improve physical performance and cognitive function while helping the body adapt to stress.</item>
+        <item>Calendula, with bright orange flowers, is commonly used in skincare for its soothing and anti-inflammatory properties. Calendula ointments and creams are popular for treating minor cuts, burns, and skin irritations. It is also used in herbal teas for its mild health benefits.</item>
+        <item>Peppermint, known for its intense, cooling flavor, is often used to relieve digestive discomfort. Peppermint tea or oil can help alleviate headaches and promote relaxation, making it a versatile herb for both culinary and therapeutic uses.</item>
+        <item>Holy Basil, also called Tulsi, is an adaptogen known for reducing stress and enhancing resilience. Widely used in Ayurvedic medicine, it is believed to support immune health and improve mental clarity while promoting overall balance in the body.</item>
+        <item>Parsley is a mild-flavored herb rich in vitamins, often used to aid digestion and freshen breath. It contains vitamins A, C, and K, making it a nutritious addition to salads, soups, and garnishes. Parsley is also known for its antioxidant properties.</item>
+        <item>Fennel, with its sweet, licorice-like flavor, is used to aid digestion and soothe inflammation. Fennel seeds are commonly used in cooking and herbal remedies, believed to have carminative effects that help relieve bloating and gas.</item>
+        <item>Lemongrass is a citrusy herb valued in Asian cuisine and known for its antimicrobial properties. It is often used in soups, teas, and curries for its refreshing flavor. Additionally, lemongrass is recognized for its potential health benefits, including digestive support and stress relief.</item>
+        <item>Dandelion, often seen as a weed, is rich in vitamins and used to detoxify and support liver health. Every part of the dandelion is edible, and it is commonly used in salads, teas, and herbal remedies for its digestive and diuretic properties.</item>
+        <item>Echinacea, known for its vibrant pink flowers, is widely used to strengthen the immune system. Often taken as a supplement or tea, echinacea is believed to help prevent colds and improve overall immune function, making it a popular choice during cold and flu season.</item>
+
+    </string-array>
+
+    <string-array name="data_photo">
+        <!--Image of Aloe vera-->
+        <item>https://i.pinimg.com/564x/cf/ba/2d/cfba2dc2d46ac4ea904c123d7fb6e7d0.jpg</item>
+
+        <!--Image of Lavender-->
+        <item>https://i.pinimg.com/564x/18/eb/1a/18eb1a4151adbf63296311fd5952bd99.jpg</item>
+
+        <!--Image of Mint-->
+        <item>https://dinkes.kalbarprov.go.id/images/F1uPT51dUEVttjvlYy6W.jpg</item>
+
+        <!--Image of Rosemary-->
+        <item>https://image.popmama.com/content-images/post/20241025/Rosemary%207-qHfnyWv9PYGRyNfPjkAWsO8ED7GCiZzK.jpg</item>
+
+        <!--Image of Basil-->
+        <item>https://i.pinimg.com/564x/63/08/4e/63084eddd21908e9ccc40fed9d3defda.jpg</item>
+
+        <!--Image of Thyme-->
+        <item>https://i.pinimg.com/236x/d5/f7/f1/d5f7f139960b5208fedf719adc0fe784.jpg</item>
+
+        <!--Image of Sage-->
+        <item>https://i.pinimg.com/736x/00/84/46/008446e910b5733e09050eb8e8327fa9.jpg</item>
+
+        <!--Image of Chamomile-->
+        <item>https://i.pinimg.com/564x/08/62/f7/0862f765ac85a712484fcde5f7ee8bdb.jpg</item>
+
+        <!--Image of Oregano-->
+        <item>https://i.pinimg.com/736x/0f/5f/52/0f5f528578a3ed3c7de851ca1fc5e372.jpg</item>
+
+        <!--Image of Ginger-->
+        <item>https://i.pinimg.com/736x/4d/b8/77/4db87748e4e613d1b7a82d293c9b5946.jpg</item>
+
+        <!--Image of Turmeric-->
+        <item>https://i.pinimg.com/564x/a7/4d/2c/a74d2c77d0357efa0905d5bd2ede5381.jpg</item>
+
+        <!--Image of Ginseng-->
+        <item>https://i.pinimg.com/564x/a5/db/d0/a5dbd077ea102c2b5aad99c232b4f4fe.jpg</item>
+
+        <!--Image of Calendula-->
+        <item>https://i.pinimg.com/564x/43/fe/35/43fe353cb62ca13abdc0ee3087f0fac9.jpg</item>
+
+        <!--Image of Pappermint-->
+        <item>https://i.pinimg.com/564x/8a/f8/f5/8af8f56d43b13bf3c1423f591061a1e0.jpg</item>
+
+        <!--Image of holy_basil-->
+        <item>https://i.pinimg.com/564x/3f/4c/0c/3f4c0c4506c7bcb6b0c9ba702b5038c9.jpg</item>
+
+        <!--Image of Parsley-->
+        <item>https://i.pinimg.com/564x/86/c0/87/86c0874892585fd7f4020065c63c926e.jpg</item>
+
+        <!--Image of Fennel-->
+        <item>https://i.pinimg.com/564x/37/59/2f/37592fba294156f16da98b7f81b44fed.jpg</item>
+
+        <!--Image of Lemongrass-->
+        <item>https://i.pinimg.com/564x/7c/34/f4/7c34f4d8ddd91adf3872ac257f9afe32.jpg</item>
+
+        <!--Image of Dandelion-->
+        <item>https://i.pinimg.com/564x/01/9e/da/019eda99db55a7983b0255385bfe3a08.jpg</item>
+
+        <!--Image of Echinacea-->
+        <item>https://i.pinimg.com/564x/8f/a1/8c/8fa18c5a03ef13bc75c0aa07dc215ff4.jpg</item>
+    </string-array>
+</resources>
